@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-One of the most exciting areas in all of data science right now is wearable computing. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. see for example [this article] (http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/)
+One of the most exciting areas in all of data science right now is wearable computing. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. see for example the following link: <http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand>
 
 The raw data used in this project is collected by accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
 
@@ -14,7 +14,7 @@ This repository contains the following files:
 4. run_analysis.R, the R script that was used to create the data set.
 
 
-#The R Script
+# The R Script
 Running the code in run_analysis.R does the following:
 1. Downloads and unzips the original raw data from the following website <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 2. Merges the training and the test sets to create one data set.
